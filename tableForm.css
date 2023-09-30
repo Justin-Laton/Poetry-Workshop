@@ -1,6 +1,6 @@
 body {
 		font-family: 'Times New Roman', Times, serif;
-		font-size: 16px;
+		font-size: 20px;
 		color: #ffffff;
 		background-image: url('b26.jpg');
 		background-repeat: no-repeat;
@@ -25,15 +25,16 @@ body {
 	}
 
 	h1 {
-		font-size: 36px;
+		font-size: 46px;
 		text-align: center;
 		background-size: 50% 50%;
 		background-repeat: no-repeat;
+		padding: 10px;
 	}
 
 	.h1p{
 		text-align: center;
-		font-size: 18px;
+		font-size: 20px;
 	}
 
 	
